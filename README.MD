@@ -49,7 +49,7 @@ For `pincode wise` you need to add comma (,) separated pincode like. 400001,4000
 
 
 ### Where to find support if you stuck at somewhere during setup?
-You can create issue in this repo, I will try my best to resolve the issues.
+You can [create issue in this repo](https://github.com/pawangspandey/Cowin-Vaccine-Automation/issues), I will try my best to resolve the issues.
 
 
 
