@@ -38,10 +38,18 @@ node index.js
 3. **_please select age group_:**  You need provide select age group for vaccine booking, for selection use SPACE button. its recomanded to add all beneficiary which same age group. (press enter for confirm and next)
 
 
-4. **_please select vaccine preference_:**  you can choose C
+4. **_please select vaccine preference_:**  you can choose COVAXIN, COVISHIELD OR ANY availble vaccine
 (press enter for confirm and next)
 
-5.
+5. **_please select vaccine fee type_:** You can choose fee type FREE and Paid. 
+
+6. **_Geographical how you want to book the available vaccine?_:** You can choose either `district wise` or `pincode wise`. 
+For `district wise` you need to select your state and district. 
+For `pincode wise` you need to add comma (,) separated pincode like. 400001,400002,400080
+
+
+### Where to find support if you stuck at somewhere during setup?
+You can create issue in this repo, I will try my best to resolve the issues.
 
 
 
